@@ -1,0 +1,11 @@
+.cards {
+    display: flex;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.navbar-nav {
+    float: right;
+}
+.jumbotron {
+    margin-top: 86px;
+}
